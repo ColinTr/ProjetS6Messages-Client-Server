@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="UDP"/>
+	<classpathentry kind="src" path="TCP"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Colin/Google Drive/DI/S6/Java/librairies/exceptions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Colin/Google Drive/DI/S6/Java/librairies/udp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
